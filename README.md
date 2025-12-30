@@ -1,12 +1,23 @@
 ## Hi there 👋
 
-I’m **Shivam Kumar**, a **Robotics & IoT enthusiast** 🚀  
-Building autonomous robots with **ESP32, PID control, and sensors**.
+I'm **Shivam Kumar**, a passionate **Robotics & IoT enthusiast** 🚀  
+This repository is ✨ _special_ ✨ because it appears on my GitHub profile, giving a snapshot of my work and interests.
 
-- 🔭 Currently working on: Line follower + Obstacle avoidance robots  
-- 🌱 Learning: ROS, OpenCV & Embedded AI  
-- 👯 Looking to collaborate on: Hackathon robotics projects  
-- 💬 Ask me about: Arduino, ESP32, IoT, Embedded programming  
-- 📫 Reach me: shivam.kumar@example.com | [LinkedIn](https://www.linkedin.com/in/shivam-r-kumar)  
+---
 
-⚡ Fun fact: I debug **electronics and code at the same time** 🤖💻
+### 🔭 I’m currently working on
+- Autonomous robotics projects with **ESP32, PID control, and sensor integration**
+- Line follower + obstacle avoidance robots
+- IoT-based smart automation systems
+
+### 👯 I’m looking to collaborate on
+- Hackathon-ready robotics projects
+- IoT and AI-integrated automation systems
+- Open-source robotics libraries and tools
+
+### 💬 Ask me about
+- Arduino, ESP32, Iot
+- Robotics & automation
+
+### 😄 Pronouns
+He/Him
