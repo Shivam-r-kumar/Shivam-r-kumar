@@ -18,6 +18,3 @@ This repository is ✨ _special_ ✨ because it appears on my GitHub profile, gi
 ### 💬 Ask me about
 - Arduino, ESP32, Iot
 - Robotics & automation
-
-### 😄 Pronouns
-He/Him
